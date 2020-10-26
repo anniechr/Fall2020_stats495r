@@ -1,0 +1,12 @@
+name: "my-website"
+navbar:
+  left:
+    - text: "New Data Viz"
+      href: index.html
+    - text: "Original Data Viz"
+      href: about.html
+output: 
+  html_document:
+    theme: yeti
+  
+      
